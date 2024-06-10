@@ -1,0 +1,7 @@
+{
+    "azure_server":  "rystadenergy.database.windows.net",
+    "azure_database":  "Datafeed",
+    "azure_username":  "",
+    "azure_password":  "",
+    "azure_driver":  "{ODBC Driver 17 for SQL Server}"
+}
