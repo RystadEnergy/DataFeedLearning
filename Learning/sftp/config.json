@@ -1,0 +1,6 @@
+{
+    "sftp_user":  "",
+    "sftp_password":  "",
+    "sftp_host":  "ftp.rystadenergy.com",
+    "sftp_port":  22
+}
